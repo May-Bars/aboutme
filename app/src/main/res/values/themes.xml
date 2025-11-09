@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- This parent IS an AppCompat theme -->
+    <style name="Theme.Aboutme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+    </style>
+</resources>
