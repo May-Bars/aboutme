@@ -3,8 +3,42 @@
     <string name="Name">Mayeoh Fay Barangot</string>
     <string name="yellow_star">Yellow Star\n</string>
 
-    <string name="bio"> Hi, my name is Mayeoh.
-    \n\nI am currently taking the Information Technology course at Xavier Ateneo de Cagayan.</string>
+    <string name="bio_jes">
+        Name: Jesmund Libar
+\nBirthday: Sept. 6, 2002
+\nCourse: BSIT
+\nYear: 3rd
+\nContact number: 09700562021
+\nHobbies: reading, Playing games, and binge-watching anime
+\nFun fact: When I’m extremely pissed, I just stay quiet and think of things on how to resolve the issue, but I always end up having maladaptive dreams about slapping them in the face (it calms me down)
+    </string>
+    <string name="bio_van">
+        Name: Ivan Gonzales
+\nBirthday: May 27, 2005
+\nCourse: BSIT
+\nYear: 3rd
+\nContact number: 09081013158
+\nHobbies: I love playing games, especially gacha games. I also enjoy playing the ukulele. I\'m a big fan of the Marvel Cinematic Universe.
+\nFun fact: I sometimes bend the truth a little for the people I care about—just so they don’t feel embarrassed.
+    </string>
+    <string name="bio_may">
+        Name: Mayeoh Barangot
+\nBirthday: May 3, 2005
+\nCourse: BSIT
+\nYear: 3rd
+\nContact number: 09659035403
+\nHobbies: Gaming, crochet, drawing
+\nFun fact: Every year on October I watch my favorite movie \"Hocus Pocus\"
+    </string>
+    <string name="bio_nic">
+        Name: Nicole Gabutan
+\nBirthday: August 15, 2005
+\nCourse: BSIT
+\nYear: 3rd
+\nContact number: 09941001418
+\nHobbies: I love playing volleyball.
+\nFun fact: I remember random things but forget what I walked into the room for.
+    </string>
     <string name="what_nickname">what is your Nickname?\n</string>
     <string name="what_is_your_nickname">What is your Nickname?</string>
     <string name="done_button">Done</string>
